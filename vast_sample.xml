@@ -1,0 +1,35 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+    
+    <Ad id="176" >
+        
+        <InLine>
+            <AdSystem version="2.0">ONION</AdSystem>
+            <AdTitle>In-Stream Video</AdTitle>
+            <Description>Grand Budapest Hotel_Fridays</Description>
+	       
+            <Creatives>
+                <Creative sequence="1" AdID="">
+                    <Linear>
+                        <Duration>00:00:</Duration>
+                        <TrackingEvents>
+                        
+                        </TrackingEvents>
+                        
+                        <VideoClicks>
+                        </VideoClicks>
+                        
+                        <MediaFiles>
+                        
+                            <MediaFile id="1" delivery="progressive" type="video/mp4"><![CDATA[http://learnty.com/ad_vast/superclip-low.mp4]]></MediaFile>
+                        
+                            <MediaFile id="1" delivery="progressive" type="video/webm"><![CDATA[http://learnty.com/ad_vast/kitteh.mp4]]></MediaFile>
+                        
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+      </InLine>
+      
+    </Ad>
+    
+</VAST>
